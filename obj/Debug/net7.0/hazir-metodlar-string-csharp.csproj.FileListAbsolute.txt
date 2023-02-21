@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\bin\Debug\net7.0\hazir-metodlar-string-csharp.exe
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\bin\Debug\net7.0\hazir-metodlar-string-csharp.deps.json
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\bin\Debug\net7.0\hazir-metodlar-string-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\bin\Debug\net7.0\hazir-metodlar-string-csharp.dll
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\bin\Debug\net7.0\hazir-metodlar-string-csharp.pdb
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.dll
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\refint\hazir-metodlar-string-csharp.dll
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.pdb
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\hazir-metodlar-string-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\hazir-metodlar-string-csharp\obj\Debug\net7.0\ref\hazir-metodlar-string-csharp.dll
